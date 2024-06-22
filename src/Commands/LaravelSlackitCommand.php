@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Tijaneneye10\LaravelSlackit\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelSlackitCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-slackit';
 
     public $description = 'My command';
 
